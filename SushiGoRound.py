@@ -10,6 +10,8 @@ occupying the whole left half of the screen.
 You only have to change Glob.window_topleft to get it to work 
 with a different set-up.
 
+Email me at rgfibe at gmail for comments or questions.
+
 """
 
 import os 
